@@ -1,0 +1,1 @@
+Install dependencies: pip install faker mysql-connector-python requests
